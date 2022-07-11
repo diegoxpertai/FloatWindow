@@ -41,7 +41,7 @@
 
 ```
 	dependencies {
-	        compile 'com.github.yhaolpz:FloatWindow:1.0.9'
+	        compile 'com.github.diegoxpertai:FloatWindow:1.0.9'
 	}
 ```
 
